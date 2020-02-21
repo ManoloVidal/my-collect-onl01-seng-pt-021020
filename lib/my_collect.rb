@@ -5,5 +5,6 @@
     empty_array << yield(array[i])
     i = i + 1
   end
+  empty_array
 end
 
