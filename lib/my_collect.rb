@@ -7,3 +7,4 @@
   end
 end
 
+empty_array
